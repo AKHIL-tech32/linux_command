@@ -1,0 +1,20 @@
+awk  to find the content of file
+find to find content and directory
+history to show all command that we have use till now
+nproc  to show CPU of system
+top show all running  process
+ps to show process
+df -h to show disk space
+apt is a package manager for ubuntu
+chmod is gives permission to files
+unmask show permission
+cp to copy content
+curl is to get URL of files
+rm -r remove file
+rmdir to remove directory
+head to show the content of file
+tail to show the content of file
+diff to find a difference of two files
+gio trash
+ln to link a file
+nohup contains log
